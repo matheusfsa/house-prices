@@ -1,0 +1,5 @@
+Atributos numéricos
+MSSubClass: Identifies the type of dwelling involved in the sale.
+LotFrontage: Linear feet of street connected to property
+LotArea: Lot size in square feet
+OverallQual: Rates the overall material and finish of the house
